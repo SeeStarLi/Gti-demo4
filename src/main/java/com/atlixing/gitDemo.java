@@ -7,5 +7,7 @@ public class gitDemo {
         System.out.println("hello hit-fix");
 
         System.out.println("shabi");
+        System.out.println("shabi");
+        System.out.println("shabi");
     }
 }
